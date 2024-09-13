@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204588210829",
+    "project_id": "logboxwifi-18812",
+    "storage_bucket": "logboxwifi-18812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204588210829:android:bbf5045f9fab266b62e0c4",
+        "android_client_info": {
+          "package_name": "com.example.logboxwifi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe2lxxCgFEx-Ykjhgb_zWHtp10vDUcnAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
